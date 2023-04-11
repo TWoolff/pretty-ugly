@@ -1,0 +1,6 @@
+header {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--font-roboto);
+}
